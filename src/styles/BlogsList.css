@@ -1,0 +1,13 @@
+.main-body {
+    margin: 20px;
+}
+
+.card {
+    text-decoration: none;
+    margin: 5px;
+}
+
+.col-4 {
+    min-width: 25rem;
+    min-height: 13rem;
+}

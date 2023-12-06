@@ -1,0 +1,15 @@
+.info{
+    display: flex;
+    justify-content: space-between;
+}
+.edit-button, .delete-button{
+    float: right;
+}
+.blog-content{
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+.text-container{
+    background-color: #2C2c2c;
+    opacity: 85%;
+}
